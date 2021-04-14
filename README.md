@@ -10,6 +10,7 @@ This is just a playground to get familiar with what you need for the other cours
 * "Patrick J Stephens" <patsteph@cisco.com>
 * "Daniel Skavdal" <dskavdal@cisco.com>
 * "Kevin Van Galder" <kvangald@cisco.com>
+* "John Howell" <johnhow@cisco.com>
 
 ## <a name="Tools2Use"></a>Tools2Use
 * [Github](https://www.github.com)
